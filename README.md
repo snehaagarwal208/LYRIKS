@@ -42,7 +42,6 @@ To get started with development, you need to install few tools
    ```
 
 ## Setup
-
 To set up a development environment, please follow these steps:
 
 1. Clone the repo
