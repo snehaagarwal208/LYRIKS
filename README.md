@@ -8,7 +8,6 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in
 
 
 ## System Requirements
-
 To get started with development, you need to install few tools
 
 1. git 
